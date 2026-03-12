@@ -2,7 +2,7 @@ window.SITE_CONFIG = {
   siteName: "ToolCompare Atlas",
   siteUrl: "https://ai-tools-compare.onrender.com/",
   googleAnalyticsId: "G-TPYKNV007M",
-  googleSiteVerification: "REPLACE_WITH_SEARCH_CONSOLE_TOKEN",
+  googleSiteVerification: "elrAoWEPj5cBEBdYS_IGYiBEUuL_wbkrA8FX1fwUqlk",
   googleAdsenseAccount: "ca-pub-XXXXXXXXXXXXXXXX",
   enableConsentBanner: true,
   contactEmail: "lastry8318@gmail.com",

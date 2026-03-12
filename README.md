@@ -19,8 +19,8 @@ Static comparison site template for AdSense + affiliate monetization.
    - `googleSiteVerification`
    - `googleAdsenseAccount`
    - site URL and contact email
-2. Replace `https://example.com/out/...` links with real affiliate URLs.
-3. Change `https://example.com` in canonical tags and sitemap to your real domain.
+2. Replace `https://ai-tools-compare.onrender.com/out/...` links with real affiliate URLs.
+3. Change `https://ai-tools-compare.onrender.com` in canonical tags and sitemap to your real domain.
 4. Update policy pages with your legal business details.
 5. Review every article for current features, pricing, and claims.
 6. After AdSense approval, update `ads.txt` with your real publisher ID.
